@@ -1,0 +1,382 @@
+[
+  {
+    "assay_id": "ASSAY_snRNA_SUBJ_55A08_Dorsol",
+    "donor_id": "SUBJ_55A08",
+    "tissue_region": "Dorsolateral Prefrontal Cortex",
+    "modality": "snRNA-seq",
+    "minseqe": {
+      "experiment_type": "single-nucleus RNA sequencing",
+      "sequencing_platform": "Illumina NovaSeq 6000",
+      "read_length_bp": 150,
+      "alignment_genome": "GRCh38",
+      "targeted_nuclei": 9786,
+      "mean_reads_per_nucleus": 37433
+    },
+    "file_paths": {
+      "raw_fastq_r1": "/hpc/data/raw/snrna/SUBJ_55A08/ASSAY_snRNA_SUBJ_55A08_Dorsol_R1.fastq.gz",
+      "raw_fastq_r2": "/hpc/data/raw/snrna/SUBJ_55A08/ASSAY_snRNA_SUBJ_55A08_Dorsol_R2.fastq.gz",
+      "processed_anndata": "/hpc/data/processed/snrna/SUBJ_55A08/ASSAY_snRNA_SUBJ_55A08_Dorsol_filtered.h5ad"
+    }
+  },
+  {
+    "assay_id": "ASSAY_snRNA_SUBJ_55A08_Substa",
+    "donor_id": "SUBJ_55A08",
+    "tissue_region": "Substantia Nigra",
+    "modality": "snRNA-seq",
+    "minseqe": {
+      "experiment_type": "single-nucleus RNA sequencing",
+      "sequencing_platform": "Illumina NovaSeq 6000",
+      "read_length_bp": 150,
+      "alignment_genome": "GRCh38",
+      "targeted_nuclei": 8211,
+      "mean_reads_per_nucleus": 45971
+    },
+    "file_paths": {
+      "raw_fastq_r1": "/hpc/data/raw/snrna/SUBJ_55A08/ASSAY_snRNA_SUBJ_55A08_Substa_R1.fastq.gz",
+      "raw_fastq_r2": "/hpc/data/raw/snrna/SUBJ_55A08/ASSAY_snRNA_SUBJ_55A08_Substa_R2.fastq.gz",
+      "processed_anndata": "/hpc/data/processed/snrna/SUBJ_55A08/ASSAY_snRNA_SUBJ_55A08_Substa_filtered.h5ad"
+    }
+  },
+  {
+    "assay_id": "ASSAY_snRNA_SUBJ_AEAAE_Dorsol",
+    "donor_id": "SUBJ_AEAAE",
+    "tissue_region": "Dorsolateral Prefrontal Cortex",
+    "modality": "snRNA-seq",
+    "minseqe": {
+      "experiment_type": "single-nucleus RNA sequencing",
+      "sequencing_platform": "Illumina NovaSeq 6000",
+      "read_length_bp": 150,
+      "alignment_genome": "GRCh38",
+      "targeted_nuclei": 8656,
+      "mean_reads_per_nucleus": 26832
+    },
+    "file_paths": {
+      "raw_fastq_r1": "/hpc/data/raw/snrna/SUBJ_AEAAE/ASSAY_snRNA_SUBJ_AEAAE_Dorsol_R1.fastq.gz",
+      "raw_fastq_r2": "/hpc/data/raw/snrna/SUBJ_AEAAE/ASSAY_snRNA_SUBJ_AEAAE_Dorsol_R2.fastq.gz",
+      "processed_anndata": "/hpc/data/processed/snrna/SUBJ_AEAAE/ASSAY_snRNA_SUBJ_AEAAE_Dorsol_filtered.h5ad"
+    }
+  },
+  {
+    "assay_id": "ASSAY_snRNA_SUBJ_AEAAE_Hippoc",
+    "donor_id": "SUBJ_AEAAE",
+    "tissue_region": "Hippocampus (CA1)",
+    "modality": "snRNA-seq",
+    "minseqe": {
+      "experiment_type": "single-nucleus RNA sequencing",
+      "sequencing_platform": "Illumina NovaSeq 6000",
+      "read_length_bp": 150,
+      "alignment_genome": "GRCh38",
+      "targeted_nuclei": 7876,
+      "mean_reads_per_nucleus": 26051
+    },
+    "file_paths": {
+      "raw_fastq_r1": "/hpc/data/raw/snrna/SUBJ_AEAAE/ASSAY_snRNA_SUBJ_AEAAE_Hippoc_R1.fastq.gz",
+      "raw_fastq_r2": "/hpc/data/raw/snrna/SUBJ_AEAAE/ASSAY_snRNA_SUBJ_AEAAE_Hippoc_R2.fastq.gz",
+      "processed_anndata": "/hpc/data/processed/snrna/SUBJ_AEAAE/ASSAY_snRNA_SUBJ_AEAAE_Hippoc_filtered.h5ad"
+    }
+  },
+  {
+    "assay_id": "ASSAY_snRNA_SUBJ_ACEAF_Hippoc",
+    "donor_id": "SUBJ_ACEAF",
+    "tissue_region": "Hippocampus (CA1)",
+    "modality": "snRNA-seq",
+    "minseqe": {
+      "experiment_type": "single-nucleus RNA sequencing",
+      "sequencing_platform": "Illumina NovaSeq 6000",
+      "read_length_bp": 150,
+      "alignment_genome": "GRCh38",
+      "targeted_nuclei": 8193,
+      "mean_reads_per_nucleus": 27168
+    },
+    "file_paths": {
+      "raw_fastq_r1": "/hpc/data/raw/snrna/SUBJ_ACEAF/ASSAY_snRNA_SUBJ_ACEAF_Hippoc_R1.fastq.gz",
+      "raw_fastq_r2": "/hpc/data/raw/snrna/SUBJ_ACEAF/ASSAY_snRNA_SUBJ_ACEAF_Hippoc_R2.fastq.gz",
+      "processed_anndata": "/hpc/data/processed/snrna/SUBJ_ACEAF/ASSAY_snRNA_SUBJ_ACEAF_Hippoc_filtered.h5ad"
+    }
+  },
+  {
+    "assay_id": "ASSAY_snRNA_SUBJ_ACEAF_Dorsol",
+    "donor_id": "SUBJ_ACEAF",
+    "tissue_region": "Dorsolateral Prefrontal Cortex",
+    "modality": "snRNA-seq",
+    "minseqe": {
+      "experiment_type": "single-nucleus RNA sequencing",
+      "sequencing_platform": "Illumina NovaSeq 6000",
+      "read_length_bp": 150,
+      "alignment_genome": "GRCh38",
+      "targeted_nuclei": 7728,
+      "mean_reads_per_nucleus": 43585
+    },
+    "file_paths": {
+      "raw_fastq_r1": "/hpc/data/raw/snrna/SUBJ_ACEAF/ASSAY_snRNA_SUBJ_ACEAF_Dorsol_R1.fastq.gz",
+      "raw_fastq_r2": "/hpc/data/raw/snrna/SUBJ_ACEAF/ASSAY_snRNA_SUBJ_ACEAF_Dorsol_R2.fastq.gz",
+      "processed_anndata": "/hpc/data/processed/snrna/SUBJ_ACEAF/ASSAY_snRNA_SUBJ_ACEAF_Dorsol_filtered.h5ad"
+    }
+  },
+  {
+    "assay_id": "ASSAY_snRNA_SUBJ_9C742_Hippoc",
+    "donor_id": "SUBJ_9C742",
+    "tissue_region": "Hippocampus (CA1)",
+    "modality": "snRNA-seq",
+    "minseqe": {
+      "experiment_type": "single-nucleus RNA sequencing",
+      "sequencing_platform": "Illumina NovaSeq 6000",
+      "read_length_bp": 150,
+      "alignment_genome": "GRCh38",
+      "targeted_nuclei": 11369,
+      "mean_reads_per_nucleus": 41358
+    },
+    "file_paths": {
+      "raw_fastq_r1": "/hpc/data/raw/snrna/SUBJ_9C742/ASSAY_snRNA_SUBJ_9C742_Hippoc_R1.fastq.gz",
+      "raw_fastq_r2": "/hpc/data/raw/snrna/SUBJ_9C742/ASSAY_snRNA_SUBJ_9C742_Hippoc_R2.fastq.gz",
+      "processed_anndata": "/hpc/data/processed/snrna/SUBJ_9C742/ASSAY_snRNA_SUBJ_9C742_Hippoc_filtered.h5ad"
+    }
+  },
+  {
+    "assay_id": "ASSAY_snRNA_SUBJ_9C742_Substa",
+    "donor_id": "SUBJ_9C742",
+    "tissue_region": "Substantia Nigra",
+    "modality": "snRNA-seq",
+    "minseqe": {
+      "experiment_type": "single-nucleus RNA sequencing",
+      "sequencing_platform": "Illumina NovaSeq 6000",
+      "read_length_bp": 150,
+      "alignment_genome": "GRCh38",
+      "targeted_nuclei": 9241,
+      "mean_reads_per_nucleus": 46064
+    },
+    "file_paths": {
+      "raw_fastq_r1": "/hpc/data/raw/snrna/SUBJ_9C742/ASSAY_snRNA_SUBJ_9C742_Substa_R1.fastq.gz",
+      "raw_fastq_r2": "/hpc/data/raw/snrna/SUBJ_9C742/ASSAY_snRNA_SUBJ_9C742_Substa_R2.fastq.gz",
+      "processed_anndata": "/hpc/data/processed/snrna/SUBJ_9C742/ASSAY_snRNA_SUBJ_9C742_Substa_filtered.h5ad"
+    }
+  },
+  {
+    "assay_id": "ASSAY_snRNA_SUBJ_15284_Caudat",
+    "donor_id": "SUBJ_15284",
+    "tissue_region": "Caudate Nucleus",
+    "modality": "snRNA-seq",
+    "minseqe": {
+      "experiment_type": "single-nucleus RNA sequencing",
+      "sequencing_platform": "Illumina NovaSeq 6000",
+      "read_length_bp": 150,
+      "alignment_genome": "GRCh38",
+      "targeted_nuclei": 8169,
+      "mean_reads_per_nucleus": 29575
+    },
+    "file_paths": {
+      "raw_fastq_r1": "/hpc/data/raw/snrna/SUBJ_15284/ASSAY_snRNA_SUBJ_15284_Caudat_R1.fastq.gz",
+      "raw_fastq_r2": "/hpc/data/raw/snrna/SUBJ_15284/ASSAY_snRNA_SUBJ_15284_Caudat_R2.fastq.gz",
+      "processed_anndata": "/hpc/data/processed/snrna/SUBJ_15284/ASSAY_snRNA_SUBJ_15284_Caudat_filtered.h5ad"
+    }
+  },
+  {
+    "assay_id": "ASSAY_snRNA_SUBJ_15284_Substa",
+    "donor_id": "SUBJ_15284",
+    "tissue_region": "Substantia Nigra",
+    "modality": "snRNA-seq",
+    "minseqe": {
+      "experiment_type": "single-nucleus RNA sequencing",
+      "sequencing_platform": "Illumina NovaSeq 6000",
+      "read_length_bp": 150,
+      "alignment_genome": "GRCh38",
+      "targeted_nuclei": 8020,
+      "mean_reads_per_nucleus": 49411
+    },
+    "file_paths": {
+      "raw_fastq_r1": "/hpc/data/raw/snrna/SUBJ_15284/ASSAY_snRNA_SUBJ_15284_Substa_R1.fastq.gz",
+      "raw_fastq_r2": "/hpc/data/raw/snrna/SUBJ_15284/ASSAY_snRNA_SUBJ_15284_Substa_R2.fastq.gz",
+      "processed_anndata": "/hpc/data/processed/snrna/SUBJ_15284/ASSAY_snRNA_SUBJ_15284_Substa_filtered.h5ad"
+    }
+  },
+  {
+    "assay_id": "ASSAY_snRNA_SUBJ_97474_Hippoc",
+    "donor_id": "SUBJ_97474",
+    "tissue_region": "Hippocampus (CA1)",
+    "modality": "snRNA-seq",
+    "minseqe": {
+      "experiment_type": "single-nucleus RNA sequencing",
+      "sequencing_platform": "Illumina NovaSeq 6000",
+      "read_length_bp": 150,
+      "alignment_genome": "GRCh38",
+      "targeted_nuclei": 10788,
+      "mean_reads_per_nucleus": 39038
+    },
+    "file_paths": {
+      "raw_fastq_r1": "/hpc/data/raw/snrna/SUBJ_97474/ASSAY_snRNA_SUBJ_97474_Hippoc_R1.fastq.gz",
+      "raw_fastq_r2": "/hpc/data/raw/snrna/SUBJ_97474/ASSAY_snRNA_SUBJ_97474_Hippoc_R2.fastq.gz",
+      "processed_anndata": "/hpc/data/processed/snrna/SUBJ_97474/ASSAY_snRNA_SUBJ_97474_Hippoc_filtered.h5ad"
+    }
+  },
+  {
+    "assay_id": "ASSAY_snRNA_SUBJ_97474_Caudat",
+    "donor_id": "SUBJ_97474",
+    "tissue_region": "Caudate Nucleus",
+    "modality": "snRNA-seq",
+    "minseqe": {
+      "experiment_type": "single-nucleus RNA sequencing",
+      "sequencing_platform": "Illumina NovaSeq 6000",
+      "read_length_bp": 150,
+      "alignment_genome": "GRCh38",
+      "targeted_nuclei": 10780,
+      "mean_reads_per_nucleus": 38087
+    },
+    "file_paths": {
+      "raw_fastq_r1": "/hpc/data/raw/snrna/SUBJ_97474/ASSAY_snRNA_SUBJ_97474_Caudat_R1.fastq.gz",
+      "raw_fastq_r2": "/hpc/data/raw/snrna/SUBJ_97474/ASSAY_snRNA_SUBJ_97474_Caudat_R2.fastq.gz",
+      "processed_anndata": "/hpc/data/processed/snrna/SUBJ_97474/ASSAY_snRNA_SUBJ_97474_Caudat_filtered.h5ad"
+    }
+  },
+  {
+    "assay_id": "ASSAY_snRNA_SUBJ_DBE8B_Hippoc",
+    "donor_id": "SUBJ_DBE8B",
+    "tissue_region": "Hippocampus (CA1)",
+    "modality": "snRNA-seq",
+    "minseqe": {
+      "experiment_type": "single-nucleus RNA sequencing",
+      "sequencing_platform": "Illumina NovaSeq 6000",
+      "read_length_bp": 150,
+      "alignment_genome": "GRCh38",
+      "targeted_nuclei": 7133,
+      "mean_reads_per_nucleus": 41696
+    },
+    "file_paths": {
+      "raw_fastq_r1": "/hpc/data/raw/snrna/SUBJ_DBE8B/ASSAY_snRNA_SUBJ_DBE8B_Hippoc_R1.fastq.gz",
+      "raw_fastq_r2": "/hpc/data/raw/snrna/SUBJ_DBE8B/ASSAY_snRNA_SUBJ_DBE8B_Hippoc_R2.fastq.gz",
+      "processed_anndata": "/hpc/data/processed/snrna/SUBJ_DBE8B/ASSAY_snRNA_SUBJ_DBE8B_Hippoc_filtered.h5ad"
+    }
+  },
+  {
+    "assay_id": "ASSAY_snRNA_SUBJ_DBE8B_Substa",
+    "donor_id": "SUBJ_DBE8B",
+    "tissue_region": "Substantia Nigra",
+    "modality": "snRNA-seq",
+    "minseqe": {
+      "experiment_type": "single-nucleus RNA sequencing",
+      "sequencing_platform": "Illumina NovaSeq 6000",
+      "read_length_bp": 150,
+      "alignment_genome": "GRCh38",
+      "targeted_nuclei": 10042,
+      "mean_reads_per_nucleus": 27978
+    },
+    "file_paths": {
+      "raw_fastq_r1": "/hpc/data/raw/snrna/SUBJ_DBE8B/ASSAY_snRNA_SUBJ_DBE8B_Substa_R1.fastq.gz",
+      "raw_fastq_r2": "/hpc/data/raw/snrna/SUBJ_DBE8B/ASSAY_snRNA_SUBJ_DBE8B_Substa_R2.fastq.gz",
+      "processed_anndata": "/hpc/data/processed/snrna/SUBJ_DBE8B/ASSAY_snRNA_SUBJ_DBE8B_Substa_filtered.h5ad"
+    }
+  },
+  {
+    "assay_id": "ASSAY_snRNA_SUBJ_C57F0_Substa",
+    "donor_id": "SUBJ_C57F0",
+    "tissue_region": "Substantia Nigra",
+    "modality": "snRNA-seq",
+    "minseqe": {
+      "experiment_type": "single-nucleus RNA sequencing",
+      "sequencing_platform": "Illumina NovaSeq 6000",
+      "read_length_bp": 150,
+      "alignment_genome": "GRCh38",
+      "targeted_nuclei": 7252,
+      "mean_reads_per_nucleus": 45560
+    },
+    "file_paths": {
+      "raw_fastq_r1": "/hpc/data/raw/snrna/SUBJ_C57F0/ASSAY_snRNA_SUBJ_C57F0_Substa_R1.fastq.gz",
+      "raw_fastq_r2": "/hpc/data/raw/snrna/SUBJ_C57F0/ASSAY_snRNA_SUBJ_C57F0_Substa_R2.fastq.gz",
+      "processed_anndata": "/hpc/data/processed/snrna/SUBJ_C57F0/ASSAY_snRNA_SUBJ_C57F0_Substa_filtered.h5ad"
+    }
+  },
+  {
+    "assay_id": "ASSAY_snRNA_SUBJ_C57F0_Caudat",
+    "donor_id": "SUBJ_C57F0",
+    "tissue_region": "Caudate Nucleus",
+    "modality": "snRNA-seq",
+    "minseqe": {
+      "experiment_type": "single-nucleus RNA sequencing",
+      "sequencing_platform": "Illumina NovaSeq 6000",
+      "read_length_bp": 150,
+      "alignment_genome": "GRCh38",
+      "targeted_nuclei": 7310,
+      "mean_reads_per_nucleus": 47298
+    },
+    "file_paths": {
+      "raw_fastq_r1": "/hpc/data/raw/snrna/SUBJ_C57F0/ASSAY_snRNA_SUBJ_C57F0_Caudat_R1.fastq.gz",
+      "raw_fastq_r2": "/hpc/data/raw/snrna/SUBJ_C57F0/ASSAY_snRNA_SUBJ_C57F0_Caudat_R2.fastq.gz",
+      "processed_anndata": "/hpc/data/processed/snrna/SUBJ_C57F0/ASSAY_snRNA_SUBJ_C57F0_Caudat_filtered.h5ad"
+    }
+  },
+  {
+    "assay_id": "ASSAY_snRNA_SUBJ_EBCC7_Caudat",
+    "donor_id": "SUBJ_EBCC7",
+    "tissue_region": "Caudate Nucleus",
+    "modality": "snRNA-seq",
+    "minseqe": {
+      "experiment_type": "single-nucleus RNA sequencing",
+      "sequencing_platform": "Illumina NovaSeq 6000",
+      "read_length_bp": 150,
+      "alignment_genome": "GRCh38",
+      "targeted_nuclei": 6520,
+      "mean_reads_per_nucleus": 37608
+    },
+    "file_paths": {
+      "raw_fastq_r1": "/hpc/data/raw/snrna/SUBJ_EBCC7/ASSAY_snRNA_SUBJ_EBCC7_Caudat_R1.fastq.gz",
+      "raw_fastq_r2": "/hpc/data/raw/snrna/SUBJ_EBCC7/ASSAY_snRNA_SUBJ_EBCC7_Caudat_R2.fastq.gz",
+      "processed_anndata": "/hpc/data/processed/snrna/SUBJ_EBCC7/ASSAY_snRNA_SUBJ_EBCC7_Caudat_filtered.h5ad"
+    }
+  },
+  {
+    "assay_id": "ASSAY_snRNA_SUBJ_EBCC7_Hippoc",
+    "donor_id": "SUBJ_EBCC7",
+    "tissue_region": "Hippocampus (CA1)",
+    "modality": "snRNA-seq",
+    "minseqe": {
+      "experiment_type": "single-nucleus RNA sequencing",
+      "sequencing_platform": "Illumina NovaSeq 6000",
+      "read_length_bp": 150,
+      "alignment_genome": "GRCh38",
+      "targeted_nuclei": 9126,
+      "mean_reads_per_nucleus": 44526
+    },
+    "file_paths": {
+      "raw_fastq_r1": "/hpc/data/raw/snrna/SUBJ_EBCC7/ASSAY_snRNA_SUBJ_EBCC7_Hippoc_R1.fastq.gz",
+      "raw_fastq_r2": "/hpc/data/raw/snrna/SUBJ_EBCC7/ASSAY_snRNA_SUBJ_EBCC7_Hippoc_R2.fastq.gz",
+      "processed_anndata": "/hpc/data/processed/snrna/SUBJ_EBCC7/ASSAY_snRNA_SUBJ_EBCC7_Hippoc_filtered.h5ad"
+    }
+  },
+  {
+    "assay_id": "ASSAY_snRNA_SUBJ_53055_Caudat",
+    "donor_id": "SUBJ_53055",
+    "tissue_region": "Caudate Nucleus",
+    "modality": "snRNA-seq",
+    "minseqe": {
+      "experiment_type": "single-nucleus RNA sequencing",
+      "sequencing_platform": "Illumina NovaSeq 6000",
+      "read_length_bp": 150,
+      "alignment_genome": "GRCh38",
+      "targeted_nuclei": 8059,
+      "mean_reads_per_nucleus": 43128
+    },
+    "file_paths": {
+      "raw_fastq_r1": "/hpc/data/raw/snrna/SUBJ_53055/ASSAY_snRNA_SUBJ_53055_Caudat_R1.fastq.gz",
+      "raw_fastq_r2": "/hpc/data/raw/snrna/SUBJ_53055/ASSAY_snRNA_SUBJ_53055_Caudat_R2.fastq.gz",
+      "processed_anndata": "/hpc/data/processed/snrna/SUBJ_53055/ASSAY_snRNA_SUBJ_53055_Caudat_filtered.h5ad"
+    }
+  },
+  {
+    "assay_id": "ASSAY_snRNA_SUBJ_53055_Hippoc",
+    "donor_id": "SUBJ_53055",
+    "tissue_region": "Hippocampus (CA1)",
+    "modality": "snRNA-seq",
+    "minseqe": {
+      "experiment_type": "single-nucleus RNA sequencing",
+      "sequencing_platform": "Illumina NovaSeq 6000",
+      "read_length_bp": 150,
+      "alignment_genome": "GRCh38",
+      "targeted_nuclei": 6094,
+      "mean_reads_per_nucleus": 47291
+    },
+    "file_paths": {
+      "raw_fastq_r1": "/hpc/data/raw/snrna/SUBJ_53055/ASSAY_snRNA_SUBJ_53055_Hippoc_R1.fastq.gz",
+      "raw_fastq_r2": "/hpc/data/raw/snrna/SUBJ_53055/ASSAY_snRNA_SUBJ_53055_Hippoc_R2.fastq.gz",
+      "processed_anndata": "/hpc/data/processed/snrna/SUBJ_53055/ASSAY_snRNA_SUBJ_53055_Hippoc_filtered.h5ad"
+    }
+  }
+]

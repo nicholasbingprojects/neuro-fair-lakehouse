@@ -1,0 +1,140 @@
+[
+  {
+    "donor_id": "SUBJ_55A08",
+    "age_at_death": 80,
+    "sex": "Male",
+    "post_mortem_interval_hrs": 2.4,
+    "hpo_terms": [
+      "HP:0001300",
+      "HP:0002172"
+    ],
+    "braak_stage_tau": "Stage II",
+    "braak_stage_synuclein": "Stage 5",
+    "redacted_clinical_note": "Patient [PERSON_REDACTED] (DOB: [DATE_REDACTED], Medicare: [DATE_REDACTED]) was reviewed by Dr. [PERSON_REDACTED] at South Jenniferside Brain Clinic. Consent signed on [DATE_REDACTED].",
+    "deidentification_status": "PASSED_SPACY_PII_V1"
+  },
+  {
+    "donor_id": "SUBJ_AEAAE",
+    "age_at_death": 63,
+    "sex": "Male",
+    "post_mortem_interval_hrs": 11.7,
+    "hpo_terms": [
+      "HP:0002129"
+    ],
+    "braak_stage_tau": "Stage I",
+    "braak_stage_synuclein": "Stage 1",
+    "redacted_clinical_note": "Patient [PERSON_REDACTED] (DOB: [DATE_REDACTED], Medicare: [DATE_REDACTED]) was reviewed by Dr. [PERSON_REDACTED] at Cassandraton Brain Clinic. Consent signed on [DATE_REDACTED].",
+    "deidentification_status": "PASSED_SPACY_PII_V1"
+  },
+  {
+    "donor_id": "SUBJ_ACEAF",
+    "age_at_death": 67,
+    "sex": "Male",
+    "post_mortem_interval_hrs": 11.3,
+    "hpo_terms": [
+      "HP:0002172",
+      "HP:0002063",
+      "HP:0002354"
+    ],
+    "braak_stage_tau": "Stage II",
+    "braak_stage_synuclein": "Stage 3",
+    "redacted_clinical_note": "Patient [PERSON_REDACTED] (DOB: [DATE_REDACTED], Medicare: [DATE_REDACTED]) was reviewed by Dr. [PERSON_REDACTED] at East Norman Brain Clinic. Consent signed on [DATE_REDACTED].",
+    "deidentification_status": "PASSED_SPACY_PII_V1"
+  },
+  {
+    "donor_id": "SUBJ_9C742",
+    "age_at_death": 78,
+    "sex": "Female",
+    "post_mortem_interval_hrs": 15.4,
+    "hpo_terms": [
+      "HP:0001300"
+    ],
+    "braak_stage_tau": "Stage VI",
+    "braak_stage_synuclein": "Stage 3",
+    "redacted_clinical_note": "Patient Holly Wood (DOB: [DATE_REDACTED], Medicare: [DATE_REDACTED]) was reviewed by Dr. [PERSON_REDACTED] at Lake Megan Brain Clinic. Consent signed on [DATE_REDACTED].",
+    "deidentification_status": "PASSED_SPACY_PII_V1"
+  },
+  {
+    "donor_id": "SUBJ_15284",
+    "age_at_death": 70,
+    "sex": "Female",
+    "post_mortem_interval_hrs": 4.6,
+    "hpo_terms": [
+      "HP:0002129",
+      "HP:0002172"
+    ],
+    "braak_stage_tau": "Stage IV",
+    "braak_stage_synuclein": "Stage 0",
+    "redacted_clinical_note": "Patient [PERSON_REDACTED] (DOB: [DATE_REDACTED], Medicare: [DATE_REDACTED]) was reviewed by Dr. [PERSON_REDACTED] at New Julie Brain Clinic. Consent signed on [DATE_REDACTED].",
+    "deidentification_status": "PASSED_SPACY_PII_V1"
+  },
+  {
+    "donor_id": "SUBJ_97474",
+    "age_at_death": 71,
+    "sex": "Female",
+    "post_mortem_interval_hrs": 12.0,
+    "hpo_terms": [
+      "HP:0002172"
+    ],
+    "braak_stage_tau": "Stage IV",
+    "braak_stage_synuclein": "Stage 4",
+    "redacted_clinical_note": "Patient [PERSON_REDACTED] (DOB: [DOB_REDACTED], Medicare: [DATE_REDACTED]) was reviewed by Dr. [PERSON_REDACTED] at Riceside Brain Clinic. Consent signed on [DATE_REDACTED].",
+    "deidentification_status": "PASSED_SPACY_PII_V1"
+  },
+  {
+    "donor_id": "SUBJ_DBE8B",
+    "age_at_death": 63,
+    "sex": "Female",
+    "post_mortem_interval_hrs": 3.3,
+    "hpo_terms": [
+      "HP:0002172",
+      "HP:0002063"
+    ],
+    "braak_stage_tau": "Stage III",
+    "braak_stage_synuclein": "Stage 4",
+    "redacted_clinical_note": "Patient [PERSON_REDACTED] (DOB: [DATE_REDACTED], Medicare: [DATE_REDACTED] [DATE_REDACTED] 8) was reviewed by Dr. [PERSON_REDACTED] at New Meaganhaven Brain Clinic. Consent signed on [DATE_REDACTED].",
+    "deidentification_status": "PASSED_SPACY_PII_V1"
+  },
+  {
+    "donor_id": "SUBJ_C57F0",
+    "age_at_death": 66,
+    "sex": "Male",
+    "post_mortem_interval_hrs": 2.8,
+    "hpo_terms": [
+      "HP:0000726"
+    ],
+    "braak_stage_tau": "Stage I",
+    "braak_stage_synuclein": "Stage 6",
+    "redacted_clinical_note": "Patient [PERSON_REDACTED] (DOB: [DATE_REDACTED], Medicare: [DATE_REDACTED] 70154 3) was reviewed by Dr. [PERSON_REDACTED] at East Jessicaland Brain Clinic. Consent signed on [DATE_REDACTED].",
+    "deidentification_status": "PASSED_SPACY_PII_V1"
+  },
+  {
+    "donor_id": "SUBJ_EBCC7",
+    "age_at_death": 67,
+    "sex": "Male",
+    "post_mortem_interval_hrs": 8.3,
+    "hpo_terms": [
+      "HP:0002172",
+      "HP:0000726"
+    ],
+    "braak_stage_tau": "Stage II",
+    "braak_stage_synuclein": "Stage 2",
+    "redacted_clinical_note": "Patient [PERSON_REDACTED] (DOB: [DATE_REDACTED], Medicare: [DATE_REDACTED] 63834 6) was reviewed by Dr. [PERSON_REDACTED] at Samuelhaven Brain Clinic. Consent signed on [DATE_REDACTED].",
+    "deidentification_status": "PASSED_SPACY_PII_V1"
+  },
+  {
+    "donor_id": "SUBJ_53055",
+    "age_at_death": 71,
+    "sex": "Male",
+    "post_mortem_interval_hrs": 13.1,
+    "hpo_terms": [
+      "HP:0002172",
+      "HP:0002129",
+      "HP:0001300"
+    ],
+    "braak_stage_tau": "Stage V",
+    "braak_stage_synuclein": "Stage 5",
+    "redacted_clinical_note": "Patient [PERSON_REDACTED] (DOB: [DATE_REDACTED], Medicare: [DATE_REDACTED] 01031 0) was reviewed by Dr. [PERSON_REDACTED] at [FAC_REDACTED]. Consent signed on [DATE_REDACTED].",
+    "deidentification_status": "PASSED_SPACY_PII_V1"
+  }
+]

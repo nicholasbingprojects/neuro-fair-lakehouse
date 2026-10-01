@@ -1,0 +1,130 @@
+[
+  {
+    "donor_id":"SUBJ_55A08",
+    "age_at_death":80,
+    "sex":"Male",
+    "post_mortem_interval_hrs":2.4,
+    "hpo_terms":[
+      "HP:0001300",
+      "HP:0002172"
+    ],
+    "braak_stage_tau":"Stage II",
+    "braak_stage_synuclein":"Stage 5",
+    "unredacted_clinical_note":"Patient Allison Hill (DOB: 1945-12-21, Medicare: 2181 96001 3) was reviewed by Dr. Hall at South Jenniferside Brain Clinic. Consent signed on 2023-07-27."
+  },
+  {
+    "donor_id":"SUBJ_AEAAE",
+    "age_at_death":63,
+    "sex":"Male",
+    "post_mortem_interval_hrs":11.7,
+    "hpo_terms":[
+      "HP:0002129"
+    ],
+    "braak_stage_tau":"Stage I",
+    "braak_stage_synuclein":"Stage 1",
+    "unredacted_clinical_note":"Patient Kevin Pacheco (DOB: 1962-09-28, Medicare: 2654 23511 6) was reviewed by Dr. Davis at Cassandraton Brain Clinic. Consent signed on 2026-03-17."
+  },
+  {
+    "donor_id":"SUBJ_ACEAF",
+    "age_at_death":67,
+    "sex":"Male",
+    "post_mortem_interval_hrs":11.3,
+    "hpo_terms":[
+      "HP:0002172",
+      "HP:0002063",
+      "HP:0002354"
+    ],
+    "braak_stage_tau":"Stage II",
+    "braak_stage_synuclein":"Stage 3",
+    "unredacted_clinical_note":"Patient Calvin Nielsen (DOB: 1958-10-26, Medicare: 8495 93103 4) was reviewed by Dr. Galloway at East Norman Brain Clinic. Consent signed on 2023-11-09."
+  },
+  {
+    "donor_id":"SUBJ_9C742",
+    "age_at_death":78,
+    "sex":"Female",
+    "post_mortem_interval_hrs":15.4,
+    "hpo_terms":[
+      "HP:0001300"
+    ],
+    "braak_stage_tau":"Stage VI",
+    "braak_stage_synuclein":"Stage 3",
+    "unredacted_clinical_note":"Patient Holly Wood (DOB: 1947-12-16, Medicare: 4192 83276 4) was reviewed by Dr. Mayo at Lake Megan Brain Clinic. Consent signed on 2026-08-07."
+  },
+  {
+    "donor_id":"SUBJ_15284",
+    "age_at_death":70,
+    "sex":"Female",
+    "post_mortem_interval_hrs":4.6,
+    "hpo_terms":[
+      "HP:0002129",
+      "HP:0002172"
+    ],
+    "braak_stage_tau":"Stage IV",
+    "braak_stage_synuclein":"Stage 0",
+    "unredacted_clinical_note":"Patient Rodney Trujillo (DOB: 1956-02-28, Medicare: 4139 53767 2) was reviewed by Dr. Baker at New Julie Brain Clinic. Consent signed on 2023-08-24."
+  },
+  {
+    "donor_id":"SUBJ_97474",
+    "age_at_death":71,
+    "sex":"Female",
+    "post_mortem_interval_hrs":12.0,
+    "hpo_terms":[
+      "HP:0002172"
+    ],
+    "braak_stage_tau":"Stage IV",
+    "braak_stage_synuclein":"Stage 4",
+    "unredacted_clinical_note":"Patient Jennifer Robinson (DOB: 1954-11-18, Medicare: 8710 12269 1) was reviewed by Dr. Cruz at Riceside Brain Clinic. Consent signed on 2020-02-05."
+  },
+  {
+    "donor_id":"SUBJ_DBE8B",
+    "age_at_death":63,
+    "sex":"Female",
+    "post_mortem_interval_hrs":3.3,
+    "hpo_terms":[
+      "HP:0002172",
+      "HP:0002063"
+    ],
+    "braak_stage_tau":"Stage III",
+    "braak_stage_synuclein":"Stage 4",
+    "unredacted_clinical_note":"Patient Ashley Dyer (DOB: 1963-07-14, Medicare: 4514 62704 8) was reviewed by Dr. Gill at New Meaganhaven Brain Clinic. Consent signed on 2025-03-07."
+  },
+  {
+    "donor_id":"SUBJ_C57F0",
+    "age_at_death":66,
+    "sex":"Male",
+    "post_mortem_interval_hrs":2.8,
+    "hpo_terms":[
+      "HP:0000726"
+    ],
+    "braak_stage_tau":"Stage I",
+    "braak_stage_synuclein":"Stage 6",
+    "unredacted_clinical_note":"Patient James Martin (DOB: 1960-07-24, Medicare: 8095 70154 3) was reviewed by Dr. Brown at East Jessicaland Brain Clinic. Consent signed on 2026-06-21."
+  },
+  {
+    "donor_id":"SUBJ_EBCC7",
+    "age_at_death":67,
+    "sex":"Male",
+    "post_mortem_interval_hrs":8.3,
+    "hpo_terms":[
+      "HP:0002172",
+      "HP:0000726"
+    ],
+    "braak_stage_tau":"Stage II",
+    "braak_stage_synuclein":"Stage 2",
+    "unredacted_clinical_note":"Patient Beth Keller (DOB: 1959-04-27, Medicare: 2489 63834 6) was reviewed by Dr. Carney at Samuelhaven Brain Clinic. Consent signed on 2023-11-03."
+  },
+  {
+    "donor_id":"SUBJ_53055",
+    "age_at_death":71,
+    "sex":"Male",
+    "post_mortem_interval_hrs":13.1,
+    "hpo_terms":[
+      "HP:0002172",
+      "HP:0002129",
+      "HP:0001300"
+    ],
+    "braak_stage_tau":"Stage V",
+    "braak_stage_synuclein":"Stage 5",
+    "unredacted_clinical_note":"Patient Danny Morgan (DOB: 1955-05-12, Medicare: 8393 01031 0) was reviewed by Dr. Heath at South Joshuafort Brain Clinic. Consent signed on 2021-10-27."
+  }
+]

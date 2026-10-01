@@ -1,0 +1,212 @@
+[
+  {
+    "image_assay_id": "IMG_OME_SUBJ_55A08_Substa",
+    "donor_id": "SUBJ_55A08",
+    "tissue_region": "Substantia Nigra",
+    "slice_thickness_um": 10.0,
+    "objective": "40x Oil",
+    "pixel_resolution_um": 0.325,
+    "channels_stained": [
+      "alpha-synuclein (MJFR1)",
+      "p-tau (AT8)",
+      "NeuN",
+      "Iba1",
+      "DAPI"
+    ],
+    "file_format": "OME-TIFF",
+    "file_path": "/hpc/data/imaging/ome_tiff/SUBJ_55A08/IMG_OME_SUBJ_55A08_Substa.ome.tif",
+    "qc_metrics": {
+      "signal_to_noise_ratio": 27.16,
+      "autofluorescence_subtracted": true
+    }
+  },
+  {
+    "image_assay_id": "IMG_OME_SUBJ_AEAAE_Hippoc",
+    "donor_id": "SUBJ_AEAAE",
+    "tissue_region": "Hippocampus (CA1)",
+    "slice_thickness_um": 10.0,
+    "objective": "40x Oil",
+    "pixel_resolution_um": 0.325,
+    "channels_stained": [
+      "alpha-synuclein (MJFR1)",
+      "p-tau (AT8)",
+      "NeuN",
+      "Iba1",
+      "DAPI"
+    ],
+    "file_format": "OME-TIFF",
+    "file_path": "/hpc/data/imaging/ome_tiff/SUBJ_AEAAE/IMG_OME_SUBJ_AEAAE_Hippoc.ome.tif",
+    "qc_metrics": {
+      "signal_to_noise_ratio": 29.02,
+      "autofluorescence_subtracted": true
+    }
+  },
+  {
+    "image_assay_id": "IMG_OME_SUBJ_ACEAF_Hippoc",
+    "donor_id": "SUBJ_ACEAF",
+    "tissue_region": "Hippocampus (CA1)",
+    "slice_thickness_um": 10.0,
+    "objective": "40x Oil",
+    "pixel_resolution_um": 0.325,
+    "channels_stained": [
+      "alpha-synuclein (MJFR1)",
+      "p-tau (AT8)",
+      "NeuN",
+      "Iba1",
+      "DAPI"
+    ],
+    "file_format": "OME-TIFF",
+    "file_path": "/hpc/data/imaging/ome_tiff/SUBJ_ACEAF/IMG_OME_SUBJ_ACEAF_Hippoc.ome.tif",
+    "qc_metrics": {
+      "signal_to_noise_ratio": 14.9,
+      "autofluorescence_subtracted": true
+    }
+  },
+  {
+    "image_assay_id": "IMG_OME_SUBJ_9C742_Caudat",
+    "donor_id": "SUBJ_9C742",
+    "tissue_region": "Caudate Nucleus",
+    "slice_thickness_um": 10.0,
+    "objective": "40x Oil",
+    "pixel_resolution_um": 0.325,
+    "channels_stained": [
+      "alpha-synuclein (MJFR1)",
+      "p-tau (AT8)",
+      "NeuN",
+      "Iba1",
+      "DAPI"
+    ],
+    "file_format": "OME-TIFF",
+    "file_path": "/hpc/data/imaging/ome_tiff/SUBJ_9C742/IMG_OME_SUBJ_9C742_Caudat.ome.tif",
+    "qc_metrics": {
+      "signal_to_noise_ratio": 15.9,
+      "autofluorescence_subtracted": true
+    }
+  },
+  {
+    "image_assay_id": "IMG_OME_SUBJ_15284_Substa",
+    "donor_id": "SUBJ_15284",
+    "tissue_region": "Substantia Nigra",
+    "slice_thickness_um": 10.0,
+    "objective": "40x Oil",
+    "pixel_resolution_um": 0.325,
+    "channels_stained": [
+      "alpha-synuclein (MJFR1)",
+      "p-tau (AT8)",
+      "NeuN",
+      "Iba1",
+      "DAPI"
+    ],
+    "file_format": "OME-TIFF",
+    "file_path": "/hpc/data/imaging/ome_tiff/SUBJ_15284/IMG_OME_SUBJ_15284_Substa.ome.tif",
+    "qc_metrics": {
+      "signal_to_noise_ratio": 33.01,
+      "autofluorescence_subtracted": true
+    }
+  },
+  {
+    "image_assay_id": "IMG_OME_SUBJ_97474_Hippoc",
+    "donor_id": "SUBJ_97474",
+    "tissue_region": "Hippocampus (CA1)",
+    "slice_thickness_um": 10.0,
+    "objective": "40x Oil",
+    "pixel_resolution_um": 0.325,
+    "channels_stained": [
+      "alpha-synuclein (MJFR1)",
+      "p-tau (AT8)",
+      "NeuN",
+      "Iba1",
+      "DAPI"
+    ],
+    "file_format": "OME-TIFF",
+    "file_path": "/hpc/data/imaging/ome_tiff/SUBJ_97474/IMG_OME_SUBJ_97474_Hippoc.ome.tif",
+    "qc_metrics": {
+      "signal_to_noise_ratio": 33.4,
+      "autofluorescence_subtracted": true
+    }
+  },
+  {
+    "image_assay_id": "IMG_OME_SUBJ_DBE8B_Dorsol",
+    "donor_id": "SUBJ_DBE8B",
+    "tissue_region": "Dorsolateral Prefrontal Cortex",
+    "slice_thickness_um": 10.0,
+    "objective": "40x Oil",
+    "pixel_resolution_um": 0.325,
+    "channels_stained": [
+      "alpha-synuclein (MJFR1)",
+      "p-tau (AT8)",
+      "NeuN",
+      "Iba1",
+      "DAPI"
+    ],
+    "file_format": "OME-TIFF",
+    "file_path": "/hpc/data/imaging/ome_tiff/SUBJ_DBE8B/IMG_OME_SUBJ_DBE8B_Dorsol.ome.tif",
+    "qc_metrics": {
+      "signal_to_noise_ratio": 23.42,
+      "autofluorescence_subtracted": true
+    }
+  },
+  {
+    "image_assay_id": "IMG_OME_SUBJ_C57F0_Substa",
+    "donor_id": "SUBJ_C57F0",
+    "tissue_region": "Substantia Nigra",
+    "slice_thickness_um": 10.0,
+    "objective": "40x Oil",
+    "pixel_resolution_um": 0.325,
+    "channels_stained": [
+      "alpha-synuclein (MJFR1)",
+      "p-tau (AT8)",
+      "NeuN",
+      "Iba1",
+      "DAPI"
+    ],
+    "file_format": "OME-TIFF",
+    "file_path": "/hpc/data/imaging/ome_tiff/SUBJ_C57F0/IMG_OME_SUBJ_C57F0_Substa.ome.tif",
+    "qc_metrics": {
+      "signal_to_noise_ratio": 31.22,
+      "autofluorescence_subtracted": true
+    }
+  },
+  {
+    "image_assay_id": "IMG_OME_SUBJ_EBCC7_Hippoc",
+    "donor_id": "SUBJ_EBCC7",
+    "tissue_region": "Hippocampus (CA1)",
+    "slice_thickness_um": 10.0,
+    "objective": "40x Oil",
+    "pixel_resolution_um": 0.325,
+    "channels_stained": [
+      "alpha-synuclein (MJFR1)",
+      "p-tau (AT8)",
+      "NeuN",
+      "Iba1",
+      "DAPI"
+    ],
+    "file_format": "OME-TIFF",
+    "file_path": "/hpc/data/imaging/ome_tiff/SUBJ_EBCC7/IMG_OME_SUBJ_EBCC7_Hippoc.ome.tif",
+    "qc_metrics": {
+      "signal_to_noise_ratio": 30.6,
+      "autofluorescence_subtracted": true
+    }
+  },
+  {
+    "image_assay_id": "IMG_OME_SUBJ_53055_Dorsol",
+    "donor_id": "SUBJ_53055",
+    "tissue_region": "Dorsolateral Prefrontal Cortex",
+    "slice_thickness_um": 10.0,
+    "objective": "40x Oil",
+    "pixel_resolution_um": 0.325,
+    "channels_stained": [
+      "alpha-synuclein (MJFR1)",
+      "p-tau (AT8)",
+      "NeuN",
+      "Iba1",
+      "DAPI"
+    ],
+    "file_format": "OME-TIFF",
+    "file_path": "/hpc/data/imaging/ome_tiff/SUBJ_53055/IMG_OME_SUBJ_53055_Dorsol.ome.tif",
+    "qc_metrics": {
+      "signal_to_noise_ratio": 15.79,
+      "autofluorescence_subtracted": true
+    }
+  }
+]
